@@ -1,2 +1,39 @@
-# Library-Management
-Console-based Library Management System developed in Java and Python, demonstrating OOP concepts, clean code structure, and fundamental backend logic.
+# 📚 Library Management System
+
+A simple **Library Management System** project built to practice core programming concepts and object-oriented design.
+
+This repository contains implementations in:
+- **Java**
+- **Python**
+
+Both versions are console-based and focus on clean structure and basic library operations.
+
+---
+
+## 🎯 Purpose
+
+- Practice **OOP fundamentals**
+- Understand basic backend logic
+- Build a beginner-friendly, real-world style project
+- Maintain proper Git workflow with commits and releases
+
+---
+
+## 🛠️ Technologies
+
+- Java (Core Java)
+- Python 3
+- Command Line Interface (CLI)
+
+---
+
+## 📌 Status
+
+🚧 Project setup in progress  
+Features and documentation will be added gradually.
+
+---
+
+## 📄 License
+
+MIT License
