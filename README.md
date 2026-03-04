@@ -25,6 +25,22 @@ Both versions are console-based and focus on clean structure and basic library o
 - Python 3
 - Command Line Interface (CLI)
 
+Project Structure:- 
+
+- LIBRARY-MANAGEMENT/
+│
+├─ UsingJava/
+│  ├─ Book.java
+│  ├─ Library.java
+│  ├─ Main.java
+│  └─ User.java
+│
+├─ UsingPython/
+│  └─ Main.py
+│
+├─ LICENSE
+└─ README.md
+
 ---
 
 ## 📌 Status
