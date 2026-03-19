@@ -1,55 +1,63 @@
-# 📚 Library Management System
+# Library Management System
 
-A simple **Library Management System** project built to practice core programming concepts and object-oriented design.
+## Introduction
+This project is designed to manage a library's inventory, including books and members.
 
-This repository contains implementations in:
-- **Java**
-- **Python**
+## Features
+- Add, update, and remove books.
+- Manage member registrations.
+- Issue and return books.
 
-Both versions are console-based and focus on clean structure and basic library operations.
+## Requirements
+- Python 3.8+
+- Flask
+- SQLAlchemy
 
----
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Dhruv-Cmds/Library-Management.git
+   ```
+2. Navigate into the directory:
+   ```bash
+   cd Library-Management
+   ```
+3. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-## 🎯 Purpose
+## Usage
+- Run the application:
+   ```bash
+   python app.py
+   ```
 
-- Practice **OOP fundamentals**
-- Understand basic backend logic
-- Build a beginner-friendly, real-world style project
-- Maintain proper Git workflow with commits and releases
-
----
-
-## 🛠️ Technologies
-
-- Java (Core Java)
-- Python 3
-- Command Line Interface (CLI)
-
-Project Structure:- 
-
-- LIBRARY-MANAGEMENT/
+## Project Structure
+```
+Library-Management/
 │
-├─ UsingJava/
-│  ├─ Book.java
-│  ├─ Library.java
-│  ├─ Main.java
-│  └─ User.java
-│
-├─ UsingPython/
-│  └─ Main.py
-│
-├─ LICENSE
-└─ README.md
+├── app.py          # Main application file
+├── requirements.txt # Dependencies
+├── models.py       # Database models
+└── README.md       # Project documentation
+```
 
----
+## Contributing
+1. Fork the repository.
+2. Create a new branch for your feature:
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add some feature"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/YourFeature
+   ```
+5. Open a pull request.
 
-## 📌 Status
-
-🚧 Project setup in progress  
-Features and documentation will be added gradually.
-
----
-
-## 📄 License
-
-MIT License
+## License
+This project is licensed under the MIT License.
